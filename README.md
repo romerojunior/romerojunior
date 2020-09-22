@@ -1,2 +1,3 @@
->>> covid update;
+## Current status:
+
 ![](fine.gif)
